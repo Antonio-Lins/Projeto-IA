@@ -1,1 +1,1 @@
-package src.test.java.com.seuProjeto;
+package com.seuProjeto;
