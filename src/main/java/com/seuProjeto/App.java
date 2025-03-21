@@ -1,4 +1,4 @@
-package src.main.java.com.seuProjeto;
+package com.seuProjeto;
 
 
 public class App 
